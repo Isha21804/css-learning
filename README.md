@@ -14,6 +14,14 @@ It includes practice files, examples, and mini projects focused on styling and r
 - HTML5 (for structure)
 - CSS3 (for styling)
 - Visual Studio Code
+  
+## 🎯 Purpose
+- To build a strong foundation in CSS fundamentals  
+- To practice modern layout techniques (Flexbox, Grid)  
+- To explore animations and transitions for interactive design  
+- To apply responsive design principles for different screen sizes  
+- To create reusable styles for future projects  
+- To document learning progress in a structured way  
 
-
-
+Author
+Isha
