@@ -23,5 +23,4 @@ It includes practice files, examples, and mini projects focused on styling and r
 - To create reusable styles for future projects  
 - To document learning progress in a structured way  
 
-Author
-Isha
+
