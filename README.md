@@ -15,6 +15,17 @@ It includes practice files, examples, and mini projects focused on styling and r
 - CSS3 (for styling)
 - Visual Studio Code
   
+## 🚀 Projects Implemented
+
+### 🛍️ Myntra Clone (HTML & CSS)
+
+* Designed a responsive e-commerce UI inspired by Myntra
+* Implemented layout using **Flexbox and CSS Grid**
+* Styled product cards, navbar, and sections
+* Focused on clean UI/UX and proper alignment
+* Used pure CSS for design (no frameworks)
+
+ 
 ## 🎯 Purpose
 - To build a strong foundation in CSS fundamentals  
 - To practice modern layout techniques (Flexbox, Grid)  
